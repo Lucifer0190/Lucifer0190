@@ -19,19 +19,18 @@ Here are some ideas to get you started:-->
 [![icon_python]][link_python] &emsp; [![icon_keras]][link_keras] &emsp; [![icon_tf]][link_tf] &emsp; [![icon_ai_gcp]][link_ai_gcp] &emsp; [![icon_flutter]][link_flutter] &emsp; [![icon_firebase]][link_firebase] &emsp; [![icon_xd]][link_xd] &emsp; 
 
 <!-- Icons -->
-[icon_linkedln]: ./icons/linkedln.png
-[icon_twitter]: ./icons/twitter.png
-[icon_gmail]: ./icons/gmail.png
-[icon_tools]: ./icons/tools.png
-[icon_python]: ./icons/python.png
-[icon_flutter]: ./icons/flutter.png
-[icon_xd]: ./icons/adobe_xd.png
+[icon_linkedln]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/linkedln.png
+[icon_twitter]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/twitter.png
+[icon_gmail]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/gmail.png
+[icon_tools]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/tools.png
+[icon_python]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/python.png
+[icon_flutter]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/flutter.png
+[icon_xd]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/adobe_xd.png
 [icon_tf]: ./icons/tensorflow.png
-[icon_firebase]: ./icons/firebase.png
-[icon_keras]: ./icons/keras.png
-[icon_ai_gcp]: ./icons/gcp_ai.png
-[icon_ai_gcp]: ./icons/gcp_ai.png
-[icon_ai_gif]: ./icons/ai.gif
+[icon_firebase]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/firebase.png
+[icon_keras]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/keras.png
+[icon_ai_gcp]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/gcp_ai.png
+[icon_ai_gif]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/ai.gif
 
 <!-- Links to your social media accounts -->
 [link_linkedln]: https://www.linkedin.com/in/kirtikumar-rawal-97059b161/
