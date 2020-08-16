@@ -1,5 +1,5 @@
+![icon_ai_gif]
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
 ---
 
 My name is Kirtikumar Rawal I'm a Flutter Developer, ML Engineer and UI/UX designer. 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:-->
 [icon_firebase]: ./icons/firebase.png
 [icon_keras]: ./icons/keras.png
 [icon_ai_gcp]: ./icons/gcp_ai.png
+[icon_ai_gcp]: ./icons/gcp_ai.png
+[icon_ai_gif]: ./icons/ai.gif
 
 <!-- Links to your social media accounts -->
 [link_linkedln]: https://www.linkedin.com/in/kirtikumar-rawal-97059b161/
