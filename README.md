@@ -1,6 +1,5 @@
 ![icon_ai_gif]
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
----
 
 My name is Kirtikumar Rawal I'm a Flutter Developer, ML Engineer and UI/UX designer. 
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:-->
 * 📫 You can find me on [![Linkedln][icon_linkedln]][link_linkedln] or ![icon_gmail] <lucifer0190morningstar@gmail.com>
 
 ### ![icon_tools] Technologies and Tools
----
+<br>
 
 [![icon_python]][link_python] &emsp; [![icon_keras]][link_keras] &emsp; [![icon_tf]][link_tf] &emsp; [![icon_ai_gcp]][link_ai_gcp] &emsp; [![icon_flutter]][link_flutter] &emsp; [![icon_firebase]][link_firebase] &emsp; [![icon_xd]][link_xd] &emsp; 
 
