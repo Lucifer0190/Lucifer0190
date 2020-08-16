@@ -8,13 +8,13 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Flutter Project
 - 🌱 I’m currently learning Machine Learning with Tensorflow on GCP
 - 💬 Ask me about ...
-- 📫 You can find me on [![linkedln_icon][Linkedln]][linkedln]
+- 📫 You can find me on [![Linkedln][i1]][l1]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 
 <!-- Icons -->
-[linkedln_icon]: trunk\icons\linkedln.png
+[i1]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/linkedln.png
 
 <!-- Links to your social media accounts -->
-[linkedln]: https://www.linkedin.com/in/kirtikumar-rawal-97059b161/ 
+[l1]: https://www.linkedin.com/in/kirtikumar-rawal-97059b161/ 
