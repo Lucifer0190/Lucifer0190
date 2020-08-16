@@ -26,7 +26,7 @@ Here are some ideas to get you started:-->
 [icon_python]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/python.png
 [icon_flutter]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/flutter.png
 [icon_xd]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/adobe_xd.png
-[icon_tf]: ./icons/tensorflow.png
+[icon_tf]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/tensorflow.png
 [icon_firebase]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/firebase.png
 [icon_keras]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/keras.png
 [icon_ai_gcp]: https://github.com/Lucifer0190/Lucifer0190/blob/master/icons/gcp_ai.png
