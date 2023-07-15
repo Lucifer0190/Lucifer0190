@@ -8,8 +8,8 @@ My name is Kirtikumar Rawal I'm a Flutter Developer, ML Engineer and UI/UX desig
 
 Here are some ideas to get you started:-->
 
-* 🔭 I’m currently working on Flutter Project
-* 🌱 I’m currently learning Machine Learning with Tensorflow on GCP
+* 🔭 I’m currently working as an Ai Engineer
+* 🌱 I’m currently learning Quantum Computing
 * 💬 Ask me about anything related to Flutter/Python/Tensorflow/Firebase/Keras
 * 📫 You can find me on [![Linkedln][icon_linkedln]][link_linkedln] or ![icon_gmail] <lucifer0190morningstar@gmail.com>
 
