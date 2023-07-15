@@ -1,7 +1,7 @@
 ![icon_ai_gif]
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-My name is Kirtikumar Rawal I'm a Flutter Developer, ML Engineer and UI/UX designer. 
+My name is Kirtikumar Rawal I'm an Ai Engineer, Cloud Engineer and Flutter Developer. 
 
 <!--
 **Lucifer0190/Lucifer0190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
