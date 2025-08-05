@@ -15,8 +15,6 @@
 
 ## 📊 GitHub Analytics & Performance
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lucifer0190&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucifer0190&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFA657&area=true&hide_border=true)
 
 ---
